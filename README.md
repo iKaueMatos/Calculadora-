@@ -2,7 +2,7 @@ Resumo do projeto:
 
 🔨 Funcionalidades do projeto:
 
-Funcionalidade 1:Calculo matematicos
+Funcionalidade 1:Calculos com expressões
 
 Funcionalidade 2:
 
